@@ -5,6 +5,8 @@
 //  Created by Nitin Bhatia on 02/02/22.
 //
 
+
+
 import Foundation
 //
 //  WKWebViewDownloadHelper.swift
@@ -16,6 +18,9 @@ import Foundation
 
 // OLD implementation
 // The helper is now distributed as SPM
+
+
+//Package of third party avaibale at https://github.com/gualtierofrigerio/WKDownloadHelper
 
 import Foundation
 import WebKit
